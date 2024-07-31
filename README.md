@@ -36,8 +36,10 @@ Specify the target language when prompted.
 The translated text will be spoken back to you.
 
 ## Example:
+```
 listening.....
 Recognizing.....
 The User said Hello
 Enter the language in which you want to convert: Ex. Hindi , English , etc.
 Say something like: French
+```
