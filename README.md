@@ -17,7 +17,7 @@ You can install these using pip:
 
 ```bash
 pip install playsound speech_recognition googletrans gtts pyttsx3 pyaudio
-
+```
 
 ## How It Works
 Voice Capture: Captures voice input from the microphone.
