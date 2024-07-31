@@ -24,9 +24,9 @@ Voice Capture: Captures voice input from the microphone.
 Language Selection: Asks the user for the target language to which the text should be translated.
 Translation: Translates the captured text into the selected language using Google Translator.
 Playback: Converts the translated text to speech and plays it back.
+``
 
-
-##Usage
+## Usage
 Run the script:
 python voice_translation.py
 Speak the text you want to translate when prompted.
@@ -35,7 +35,7 @@ Specify the target language when prompted.
 
 The translated text will be spoken back to you.
 
-##Example:
+## Example:
 listening.....
 Recognizing.....
 The User said Hello
